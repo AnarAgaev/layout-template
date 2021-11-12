@@ -1,2 +1,1 @@
-# layout-template
-layout-template
+Webpack layout template
